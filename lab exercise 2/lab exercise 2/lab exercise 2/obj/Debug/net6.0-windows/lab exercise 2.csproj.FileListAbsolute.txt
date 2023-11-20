@@ -1,0 +1,16 @@
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\bin\Debug\net6.0-windows\lab exercise 2.exe
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\bin\Debug\net6.0-windows\lab exercise 2.deps.json
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\bin\Debug\net6.0-windows\lab exercise 2.runtimeconfig.json
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\bin\Debug\net6.0-windows\lab exercise 2.dll
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\bin\Debug\net6.0-windows\lab exercise 2.pdb
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab_exercise_2.Form1.resources
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab exercise 2.csproj.GenerateResource.cache
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab exercise 2.AssemblyInfoInputs.cache
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab exercise 2.AssemblyInfo.cs
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab exercise 2.dll
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\refint\lab exercise 2.dll
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab exercise 2.pdb
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\lab exercise 2.genruntimeconfig.cache
+C:\Users\Dawit Amlaku\source\repos\lab exercise 2\lab exercise 2\obj\Debug\net6.0-windows\ref\lab exercise 2.dll
